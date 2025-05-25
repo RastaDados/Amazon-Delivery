@@ -38,19 +38,19 @@ Esta análise tem como objetivo compreender os padrões e fatores que influencia
 
 ## 🔗 Links
 
-- Dashboard do Power BI: Acesse
+- Dashboard do Power BI: <a href="https://app.powerbi.com/view?r=eyJrIjoiNzQ2OWE4OGEtOTUwNC00NmFlLWEwYWUtNDM2OGViNjY5N2Q1IiwidCI6IjBjM2IyYzljLWVlYTctNDJlZi04YTYzLTcwOWIyNjU5NzYxOCJ9">Acesse</a>
 
-- Dashboard em Python (Dash): Dashboard
+- Dashboard em Python (Dash): <a href="https://github.com/RastaDados/Amazon-Delivery/blob/main/Dashboard%20Python.md">Acesse</a>
 
-- Apresentação (Business Analysis): Apresentação
+- Apresentação (Business Analysis): <a href="https://github.com/RastaDados/Amazon-Delivery/blob/main/An%C3%A1lise%20de%20Mercado.md">Acesse</a>
 
-- Dashboards e Códigos Utilizados neste Projeto: Acesse
+- Dashboards e Códigos Utilizados neste Projeto: <A href="https://github.com/RastaDados/Amazon-Delivery/tree/main/Dashboard">Acesse</a>
 
 <hr>
 
 ## ✍️ Autor
 
-- Mateus França -
+- Mateus França - <a href="https://www.linkedin.com/in/mateus-fran%C3%A7a-775b57113/">Linkedin</a>
 
 
 
