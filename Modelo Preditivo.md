@@ -1,6 +1,6 @@
 ## Modelagem Preditiva
 
-####Codificando as variáveis categóricas
+#### Codificando as variáveis categóricas
 
 ```python
 cat_cols = ['Weather', 'Traffic', 'Vehicle', 'Area', 'Category']
